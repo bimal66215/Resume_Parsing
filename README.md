@@ -9,3 +9,5 @@ For this Project you will also need to install:
 3. Imagemagik
 
 After installation the dir's needs to be added to the %path% env variable
+
+Helper.py file contains all the important functions that are required to execute the main notebook
