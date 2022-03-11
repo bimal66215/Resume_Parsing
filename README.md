@@ -10,4 +10,6 @@ For this Project you will also need to install:
 
 After installation the dir's needs to be added to the %path% env variable
 
-Helper.py file contains all the important functions that are required to execute the main notebook
+Helper.py file contains all the important functions that are required to execute the main notebook.
+
+The Tech Skills excel workbook contains the 65,000+ Skills. This will be used to locate the Candidate Skills from the Resume.
